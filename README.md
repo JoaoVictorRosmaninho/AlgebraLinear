@@ -6,5 +6,5 @@ num ponto (x,y) e c > 0 é uma constante caracteristca material de que é feita 
 o tempo e, portanto aT/at = 0 a equação se torna :
         
                                             0 = c(a²T/ax² + a²T/ay²)
-e o problema se converte em achar  T(x,y)  satisfazendo a segunda equação tal que T tem um valor pré-fixado no bordo da placa.
+e o problema se converte em achar  T(x,y)  satisfazendo a segunda equação tal que T tem um valor pré-fixado na borda da placa.
    
